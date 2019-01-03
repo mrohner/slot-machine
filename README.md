@@ -13,6 +13,7 @@ If you win something, the winning paylines are displayed as in the picture:
 ## Design
 See this video on how to configure the coin acceptor. https://www.youtube.com/watch?v=plG0ZpbN--s&t=147s
 I used Piskel to design the 8x8 symbols https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgKDIwuvfCAw/edit
+(c) Pixel Art food by Justin Cyr
 You the can create C code which I converted BGR 8/8/8 bitmaps to RGB 5/6/5 used by Adafruit_GFX, as expected by the Adafruit library. (See PROGMEM_test.INO)
 I used a smaller font(5x5) which is also included, to display text.
 Good instructions on how to attach such an RGB Panel to an Arduino are here: https://github.com/2dom/PxMatrix
