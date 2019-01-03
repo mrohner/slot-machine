@@ -1,5 +1,6 @@
 # Slot-machine
 Slot machine with Arduino Mega and SMD2121 display
+![Slot_machine](IMG_1383.JPG)
 
 ## Function
 A slot machine based on Arduino Mega and 32x64 SMD2121 RGB LED panel as well as coin acceptor. The rules are the same
